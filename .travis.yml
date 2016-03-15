@@ -7,3 +7,8 @@ go:
   - 1.5
   - 1.6
   - tip
+
+install:
+  - go get github.com/gin-gonic/gin
+  - go get github.com/joho/godotenv
+  - go get gopkg.in/mgo.v2
