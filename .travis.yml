@@ -12,3 +12,5 @@ install:
   - go get github.com/joho/godotenv
   - go get gopkg.in/mgo.v2
   - go get google.golang.org/api/oauth2/v2
+  - go get github.com/stretchr/testify
+  - go get github.com/smartystreets/goconvey

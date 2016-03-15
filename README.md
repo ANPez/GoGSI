@@ -1,7 +1,7 @@
 # gogsi
 
-[![Build Status](https://travis-ci.org/smartystreets/goconvey.png)](https://travis-ci.org/smartystreets/goconvey)
-[![GoDoc](https://godoc.org/github.com/smartystreets/goconvey?status.svg)](http://godoc.org/github.com/smartystreets/goconvey)
+[![Build Status](https://travis-ci.org/ANPez/gogsi.png)](https://travis-ci.org/ANPez/gogsi)
+[![GoDoc](https://godoc.org/github.com/ANPez/gogsi?status.svg)](http://godoc.org/github.com/ANPez/gogsi)
 
 GoGSI: a Go project that acts as a base project to handle Google Sign In (JWT) and user management with MongoDB.
 
