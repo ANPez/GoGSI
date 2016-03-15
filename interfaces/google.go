@@ -1,7 +1,7 @@
 package interfaces
 
 import (
-	"github.com/anpez/gogsi/types"
+	"github.com/ANPez/gogsi/types"
 )
 
 type Google interface {

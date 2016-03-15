@@ -1,8 +1,8 @@
 package middlewares
 
 import (
-	"github.com/anpez/gogsi/interfaces"
-	"github.com/anpez/gogsi/types"
+	"github.com/ANPez/gogsi/interfaces"
+	"github.com/ANPez/gogsi/types"
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"net/http"

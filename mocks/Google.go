@@ -2,7 +2,7 @@ package mocks
 
 import "github.com/stretchr/testify/mock"
 
-import "github.com/anpez/gogsi/types"
+import "github.com/ANPez/gogsi/types"
 
 type Google struct {
 	mock.Mock

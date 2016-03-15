@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"github.com/anpez/gogsi/types"
+	"github.com/ANPez/gogsi/types"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

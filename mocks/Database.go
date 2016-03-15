@@ -1,6 +1,6 @@
 package mocks
 
-import "github.com/anpez/gogsi/interfaces"
+import "github.com/ANPez/gogsi/interfaces"
 import "github.com/stretchr/testify/mock"
 
 type Database struct {

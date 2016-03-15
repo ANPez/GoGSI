@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/anpez/gogsi/controllers"
-	"github.com/anpez/gogsi/middlewares"
+	"github.com/ANPez/gogsi/controllers"
+	"github.com/ANPez/gogsi/middlewares"
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
 	"log"

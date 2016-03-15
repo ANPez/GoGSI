@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/anpez/gogsi",
+	"ImportPath": "github.com/ANPez/gogsi",
 	"GoVersion": "go1.6",
 	"Packages": [
 		"./..."

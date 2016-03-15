@@ -1,7 +1,7 @@
 package middlewares
 
 import (
-	"github.com/anpez/gogsi/types"
+	"github.com/ANPez/gogsi/types"
 	"github.com/gin-gonic/gin"
 	"google.golang.org/api/oauth2/v2"
 	"log"

@@ -1,8 +1,8 @@
 package middlewares
 
 import (
-	"github.com/anpez/gogsi/mocks"
-	"github.com/anpez/gogsi/types"
+	"github.com/ANPez/gogsi/mocks"
+	"github.com/ANPez/gogsi/types"
 	"encoding/json"
 	"fmt"
 	"github.com/gin-gonic/gin"

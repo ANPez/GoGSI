@@ -1,7 +1,7 @@
 package middlewares
 
 import (
-	"github.com/anpez/gogsi/interfaces"
+	"github.com/ANPez/gogsi/interfaces"
 	"github.com/gin-gonic/gin"
 	"gopkg.in/mgo.v2"
 	"log"
